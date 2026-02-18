@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Matt, and I'm a programmer at Rutgers University-New Brunswick. Primarily working in web development and game development, but open to other projects. Also active in solar engineering and playing piano.
+My name is Matt, and I'm a programmer at Rutgers University-New Brunswick. Primarily working in web development and game development, but open to other projects. Also active in solar engineering.
 
 <!--
 **am-matt/am-matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
